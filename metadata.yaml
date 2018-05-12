@@ -1,10 +1,16 @@
 _repo: Harmaja-linna-Romaani_50947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Koskimaa, Juho
     gutenberg_agent_id: '46158'
     url: http://www.gutenberg.org/2009/agents/46158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50947#Harmaja-linna-Romaani
 gutenberg_issued: '2016-01-17'
 gutenberg_type: Text
 identifiers:
